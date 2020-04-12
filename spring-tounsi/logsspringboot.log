@@ -1,0 +1,5 @@
+2020-04-11 02:01:06.309  INFO 11832 --- [RMI TCP Connection(142)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-04-11 02:01:06.348  INFO 11832 --- [RMI TCP Connection(142)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-11 02:01:06.351  INFO 11832 --- [RMI TCP Connection(142)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-04-11 02:01:06.367  INFO 11832 --- [RMI TCP Connection(142)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-04-11 02:01:06.373  INFO 11832 --- [RMI TCP Connection(142)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
