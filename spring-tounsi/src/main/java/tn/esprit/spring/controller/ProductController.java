@@ -30,7 +30,7 @@ import tn.esprit.spring.service.interfaces.IRayInfoService;
  *
  */
 @RestController
-@RequestMapping("/aminepro")
+@RequestMapping("/amineproduit")
 public class ProductController  {
 
 	@Autowired
